@@ -1,6 +1,6 @@
 <p align="center">
     <div align="center">
-        <h1>Hi, i'm an IT student at ITIS (in Italy).</h1>
+        <h1>Hi, i'm an IT student studying at ITIS (in Italy).</h1>
         <h2>Known languages</h2>
         <!--Programming Languages Icons-->
         <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cs&theme=dark"/>
