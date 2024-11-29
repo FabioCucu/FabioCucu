@@ -1,6 +1,10 @@
-<p align="left">
+<p align="center">
     <div align="center">
-        <h1>My Stats</h1>
+        <h1>Hi, i'm an IT student at ITIS (in Italy).</h1>
+        <h2>Known languages</h2>
+        <!--Programming Languages Icons-->
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cs&theme=dark"/>
+        <h2>My Stats</h2>
         <!--My Stats-->
         <img src="https://github-readme-stats.vercel.app/api?username=FabioCucu&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="350"/>
         <!--My Streak-->
