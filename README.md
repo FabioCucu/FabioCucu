@@ -7,6 +7,8 @@
         <h2>My Stats</h2>
         <!--My Stats-->
         <img src="https://github-readme-stats.vercel.app/api?username=FabioCucu&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="350"/>
+        <!--My Streak-->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioCucu&theme=midnight-purple&hide_border=true" width="350" height="130"/>
         <!--Most Used Languages-->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCucu&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=10" width="300" />
         <br>
