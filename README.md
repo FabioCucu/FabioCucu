@@ -1,9 +1,10 @@
 <p align="center">
     <div align="center">
         <h2>Known languages and skills</h2>
-        <img src="GIFS/Sakuya And Remilia/RemiliaSpear.gif"/>
         <!--Programming Languages Icons-->
         <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cs,php,mysql&theme=dark"/>
+        <br>
+        <img src="GIFS/Sakuya And Remilia/RemiliaSpear.gif"/>
         <img src="GIFS/Sakuya And Remilia/SakuyaAttacking.gif"/>
         <h2>My Stats</h2>
         <br>
